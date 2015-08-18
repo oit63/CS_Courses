@@ -3,11 +3,11 @@
 #+CAPTION: CS50 Logo
 [[./img/L/logo.png]]
 
-** Class Note [0%]
+** Class Note [23%]
 
-- [ ] *Week 00*
-- [ ] *Week 01*
-- [ ] *Week 02*
+- [X] *Week 00*
+- [X] *Week 01*
+- [X] *Week 02*
 - [ ] *Week 03*
 - [ ] *Week 04*
 - [ ] *Week 05*
@@ -19,8 +19,9 @@
 - [ ] *Week 11*
 - [ ] *Week 12*
 
-** Problem Sets [0%]
+** Problem Sets [10%]
 
+- [X] Problem Set 00
 - [ ] Problem Set 01
 - [ ] Problem Set 02
 - [ ] Problem Set 03
