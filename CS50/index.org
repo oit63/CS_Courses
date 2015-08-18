@@ -1,0 +1,32 @@
+* CS50: Introduction to Computer Science
+
+#+CAPTION: CS50 Logo
+[[./img/L/logo.png]]
+
+** Class Note [0%]
+
+- [ ] *Week 00*
+- [ ] *Week 01*
+- [ ] *Week 02*
+- [ ] *Week 03*
+- [ ] *Week 04*
+- [ ] *Week 05*
+- [ ] *Week 06*
+- [ ] *Week 07*
+- [ ] *Week 08*
+- [ ] *Week 09*
+- [ ] *Week 10*
+- [ ] *Week 11*
+- [ ] *Week 12*
+
+** Problem Sets [0%]
+
+- [ ] Problem Set 01
+- [ ] Problem Set 02
+- [ ] Problem Set 03
+- [ ] Problem Set 04
+- [ ] Problem Set 05
+- [ ] Problem Set 06
+- [ ] Problem Set 07
+- [ ] Problem Set 08
+- [ ] Problem Set 09
